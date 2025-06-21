@@ -1,4 +1,4 @@
-![exemplo](exemplo.png)
+![exemplo](exemplo.png)  
 Este é um mini projeto de análise de dados de criptomoedas utilizando a [API pública da CoinGecko](https://www.coingecko.com/en/api).  
 O objetivo é praticar consumo de API, manipulação de JSON e tratamento de dados com Python + Pandas.
 
